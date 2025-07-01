@@ -1,5 +1,5 @@
 # Business-card-website
-Basic Business Card Website developed using HTML and CSS from scratch without using any AI.
+Basic Business Card Website developed using HTML and CSS from scratch without using any AI. Images sourced from Unsplash.
 
 ## HTML code
 ```
