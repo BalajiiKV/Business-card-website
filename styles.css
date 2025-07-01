@@ -5,7 +5,8 @@ padding: 20px;
 }
 p{
   margin-top: 5px;
-margin-bottom: 5px;
+  margin-bottom: 5px;
+  color: black;
 }
 a{
   text-decoration: none;
@@ -18,10 +19,11 @@ a{
   font-size: 16px;
   margin-left: auto;
   margin-right: auto;
-  background-color: white;
+  background-color: rgb(234, 208, 212);
+  border: 2px solid black;
 }
 .profile-image{
-  max-width: 100%;
+  max-width: 80%;
 }
 .full-name{
     font-size: 35px;
@@ -35,9 +37,22 @@ a{
 .company{
     margin-bottom: 10px;
 }
+.phone{
+  margin-bottom: 10px;
+}
 .email{
     font-style: italic;
     margin-top: 10px;
     color: rgb(104, 92, 92);
     font-size: 15px;
+}
+#link1{
+  text-align: center;
+  margin-left: auto;
+  margin-right: 15px;
+}
+#link2{
+  text-align: center;
+  margin-left: 15px;
+  margin-right: auto;
 }
